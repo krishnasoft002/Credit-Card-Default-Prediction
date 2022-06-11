@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ## Team
 Vamsi Alla: https://github.com/krishnasoft002
 
-YouTube Video
+YouTube Video:
 
 Backend and UI Exaplanation: 
 https://www.youtube.com/watch?v=fe6UbznGRLU
